@@ -1,0 +1,40 @@
+Eco-dream/
+│
+├── app/
+│   ├── main.py
+│   ├── screens/
+│   ├── widgets/
+│   └── theme/
+│
+├── data/
+│   ├── database.db
+│   └── firebase_config.json
+│
+├── nlp/
+│   ├── sentiment_analysis.py
+│   └── dream_analysis.py
+│
+├── analysis/
+│   ├── pattern_recognition.py
+│   └── emotion_correlation.py
+│
+├── visualization/
+│   ├── dashboard.py
+│   └── graphs.py
+│
+├── security/
+│   ├── encryption.py
+│   └── authentication.py
+│
+├── assets/
+│   ├── icons/
+│   └── styles/
+│
+├── docs/
+│   ├── user_guide.md
+│   └── api_documentation.md
+│
+├── README.md
+├── requirements.txt
+├── config.py
+└── main.py
